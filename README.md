@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; M.A.S.C Computer and Electrical Engineering at University of Concordia.
-- 💼 &nbsp; Working as a QA tools and python, C++.
+- 💼 &nbsp; Working as a QA tool and python, C++.
 - 🌱 &nbsp; Learning more about Quality assurance, python, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -27,7 +27,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
@@ -42,6 +41,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Amrollahi%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
