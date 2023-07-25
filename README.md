@@ -31,10 +31,6 @@
 
 <br/>
 
-<a href="https://https://github.com/Arefeh-Amrollahi">
-  <img height="180em" src="https://github.com/Arefeh-Amrollahi" />
-  <img height="180em" src="https://github.com/Arefeh-Amrollahi" />
-</a>
 
 <br/>
 
