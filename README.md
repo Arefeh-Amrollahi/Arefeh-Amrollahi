@@ -36,6 +36,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Amrollahi%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Amrollahi%20?style=flat-square&logo=linkedin"></a>
 </p>
 
