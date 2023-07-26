@@ -1,11 +1,8 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h2> Hey there! I'm Arefeh .</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/arefeh-a-784b80101/) 
-
+<h2> Hello ! I'm Arefeh .</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
