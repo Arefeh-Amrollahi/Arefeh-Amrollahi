@@ -28,14 +28,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/arefeh-a-784b80101/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Arefeh-Amrollahi) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefeh Amrollahi&show_icons=true)
+
+![Profile views](https://https://github.com/Arefeh-Amrollahi)
+
+⭐️ From [olumidayy](https://github.com/Arefeh-Amrollahi)
 
 
-<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Amrollahi%20?style=flat-square&logo=linkedin"></a>
-</p>
 
