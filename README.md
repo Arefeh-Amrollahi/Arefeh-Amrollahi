@@ -39,6 +39,19 @@
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Arefeh-Amrollahi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
   
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br>
+
+
+
+<p align="center">
+
+
+
+<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+
+
+</p>
 
 
 ![Profile views](https://github.com/Arefeh-Amrollahi)
