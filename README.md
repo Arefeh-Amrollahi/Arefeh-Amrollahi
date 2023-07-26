@@ -31,8 +31,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
   ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-  ![Jenkins](https://img.shields.io/badge/jenkins-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-  ![Jenkins](https://img.shields.io/badge/jenkins-222222?style=flat&logo=jira-software&logo=jenkins&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins--222222?style=flat?style=for-the-badge&logo=jenkins&logoColor=white)
 
 - 🔧 &nbsp;
