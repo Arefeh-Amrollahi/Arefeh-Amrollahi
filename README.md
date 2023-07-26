@@ -30,11 +30,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/arefeh-a-784b80101/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Arefeh-Amrollahi) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefeh Amrollahi&show_icons=true)
 
 ![Profile views](https://https://github.com/Arefeh-Amrollahi)
 
-⭐️ From [olumidayy](https://github.com/Arefeh-Amrollahi)
+⭐️ From [Arefeh](https://github.com/Arefeh-Amrollahi)
 
 
 
