@@ -52,8 +52,6 @@
 </p>
 
 
-(https://github.com/Arefeh-Amrollahi)
-
 ⭐️ From [Arefeh](https://github.com/Arefeh-Amrollahi)
 
 
