@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; M.A.S.C Computer and Electrical Engineering at University of Concordia.
 - 💼 &nbsp; Working as a QA tools, python and C++.
-- 🌱 &nbsp; Learning more about Quality assurance, python, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Quality assurance, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Test Developer and Data Science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
