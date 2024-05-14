@@ -40,15 +40,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status
-<p><img src="https://github-readme-stats.vercel.app/api?username=Arefeh-Amrollahi&amp;show_icons=true" style="height:250px; width:520px" /> </p>
-<br>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
 
-<a href="https://www.linkedin.com/in/arefeh-a-784b80101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arefeh%20Amrollahi-blue?style=flat-square&logo=linkedin"></a>
-
-</p>
 
 
 ⭐️ From [Arefeh](https://github.com/Arefeh-Amrollahi)
