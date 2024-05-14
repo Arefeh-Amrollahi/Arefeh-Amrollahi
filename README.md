@@ -40,13 +40,12 @@
   ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 
-</a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
 
 
 ## Connect with me ☕ :
 
-⭐️ From [Arefeh](https://www.linkedin.com/in/arefeh-a-784b80101/) (https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]
+⭐️ From [Arefeh](https://www.linkedin.com/in/arefeh-a-784b80101/) [(https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]
 
 
 
