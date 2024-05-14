@@ -43,10 +43,7 @@
 
 
 
-## Connect with me ☕ :
-
-⭐️ From [Arefeh](https://www.linkedin.com/in/arefeh-a-784b80101/) [(https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]
-
+⭐️ From [Arefeh](https://www.linkedin.com/in/arefeh-a-784b80101/)
 
 
 
