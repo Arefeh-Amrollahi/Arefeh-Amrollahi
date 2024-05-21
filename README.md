@@ -43,7 +43,7 @@
 
 
 
-⭐️ From Linkedln [Arefeh](https://www.linkedin.com/in/arefeh-a-784b80101/)
+⭐️ From Linkedln <a href="https://www.linkedin.com/in/arefeh-a-784b80101" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
