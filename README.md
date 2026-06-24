@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **M.A.Sc.** in Electrical &amp; Computer Engineering — *Concordia University*
+- 🎓 **M.A.Sc.** in Electrical &amp; Computer Engineering, *Concordia University*
 - 🔋 Researching **Battery Management Systems**: fault detection, diagnostics &amp; state estimation
 - 💻 Building **QA automation &amp; validation tooling** in Python and C++
 - 🔐 Focused on **cybersecurity** for industrial control &amp; cyber-physical systems
