@@ -77,27 +77,9 @@
 ---
 
 <!--
-====================================================================
-📊 GITHUB STATS — currently OFF so your profile shows no errors.
-TO TURN ON:
-  1. Replace every USERNAME below with your GitHub handle
-     (the word after github.com/ in your profile URL)
-  2. Delete this opening comment line and the closing  -->  line
-     at the bottom of this block to un-comment it.
-====================================================================
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=react&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=ffffff"/>
-
-</div>
 
 ---
 -->
