@@ -13,7 +13,9 @@
 <a href="https://www.linkedin.com/in/arefeh-a-784b80101" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS"/>
+
+<!-- ⬇️ OPTIONAL: paste your GitHub username over USERNAME below, then delete the two comment lines to show a profile-view counter -->
+<!-- <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS"/> -->
 
 </div>
 
@@ -21,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **M.A.Sc.** in Electrical &amp; Computer Engineering, *Concordia University*
+- 🎓 **M.A.Sc.** in Electrical &amp; Computer Engineering — *Concordia University*
 - 🔋 Researching **Battery Management Systems**: fault detection, diagnostics &amp; state estimation
 - 💻 Building **QA automation &amp; validation tooling** in Python and C++
 - 🔐 Focused on **cybersecurity** for industrial control &amp; cyber-physical systems
@@ -74,20 +76,31 @@
 
 ---
 
+<!--
+====================================================================
+📊 GITHUB STATS — currently OFF so your profile shows no errors.
+TO TURN ON:
+  1. Replace every USERNAME below with your GitHub handle
+     (the word after github.com/ in your profile URL)
+  2. Delete this opening comment line and the closing  -->  line
+     at the bottom of this block to un-comment it.
+====================================================================
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0077B5"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=react&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=ffffff"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=ffffff"/>
 
 </div>
 
 ---
+-->
 
 <div align="center">
 
