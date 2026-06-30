@@ -4,7 +4,7 @@
 
 # Hi, I'm Arefeh Amrollahi 👋
 
-### ⚡ Electrical &amp; Computer Engineer
+### ⚡ Electrical Engineer
 
 <!-- Replace YOUR_GITHUB_USERNAME everywhere below with your actual GitHub username -->
 
